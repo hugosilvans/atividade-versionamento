@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.py[cod]
+*.o
+*.exe
+*.class
+**/target/
+.env
+.env.*
+!.env.example
+dist/
+.angular/
